@@ -75,6 +75,7 @@ More details:
 - All history admin logins saving at table (adminloginslog)
 - All admin configs username - password - maxtry etc saving at table (adminconfig)
 - All tab Titles saved at table (tabTitles)
+- All table headers saved at table (headers)
 
  
  
