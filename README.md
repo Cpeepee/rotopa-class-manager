@@ -1,4 +1,4 @@
-# management-app
+# management-application
 Manage students/classs/members (unlimited).
 This application created for manage students/classs/members of a unit.
 
