@@ -2,11 +2,12 @@
 Manage students/classs/members (unlimited).
 This application created for manage students/classs/members of a unit.
 
- Link archive sources + outputs
+ Link archive sources + outputs 
+    latest version : 1.4.2 download from archive link
 - https://senioradministrator.com/qt/management-application/
 
 Technical Specifications:
-- Latest version : 1.0.0 [Stable]
+- Current version : 1.0.0 [Stable]
 - Database used sqlite (can use 'DB Browser for SQLite' this is open-source sqlite database editor).
 - Compiled via minGW-32bit, C++11.
 - Licenses: LGPL version 3, GPL version 2 and GPL version 3.
@@ -14,7 +15,7 @@ Technical Specifications:
 
 
 
-Features of verion 1.4.2: (download from archive link)
+Features of verion 1.0.0: 
 
  - can add unlimit members/students/classs
  - change/insert your titles of forms parts 
