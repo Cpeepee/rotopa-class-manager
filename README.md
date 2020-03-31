@@ -14,7 +14,7 @@ Technical Specifications:
 
 
 
-Features of verion 1.0.0:
+Features of verion 1.4.2: (download from archive link)
 
  - can add unlimit members/students/classs
  - change/insert your titles of forms parts 
