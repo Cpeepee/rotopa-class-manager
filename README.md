@@ -6,7 +6,7 @@ This application created for manage students/classs/members of a unit.
 - https://senioradministrator.com/qt/management-application/
 
 Technical Specifications:
-- Current version : 1.0.0 [Stable]
+- Current version : 1.0.0 [Stable] + (ALL VERSIONS ADDED 'VERSION.ZIP')
 - Database used sqlite (can use 'DB Browser for SQLite' this is open-source sqlite database editor).
 - Compiled via minGW-32bit, C++11.
 - Licenses: LGPL version 3, GPL version 2 and GPL version 3.
