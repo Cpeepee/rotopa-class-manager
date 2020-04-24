@@ -2,7 +2,7 @@
 Manage students/classs/members (unlimited).
 This application created for manage students/classs/members of a unit.
 
- Link archive sources + outputs (latest version :1.4.2 download from archive link)
+ Link archive sources + outputs (latest version :1.5.2 download from archive link)
 - https://senioradministrator.com/qt/management-application/
 
 Technical Specifications:
