@@ -3,6 +3,73 @@ Manage students/classs/members (unlimited).
 This application created for manage students/classs/members of a unit.
 
 
+# Login 
+![login](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/login/login.png)
+![login-success](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/login/loginsucc.png)
+![login-failed](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/login/incorrectpass.png)
+![login-failed](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/login/blockedaccount.png)
+
+____________________
+
+# main page
+
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/1.png)
+
+___________________________
+
+# student section
+
+_________________________
+
+
+
+
+# Setting and Cofnguration
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/main.png)
+
+## edit username and password
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/user-pass-edit.png)
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/user-pass-edit-2.png)
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/user-pass3.png)
+
+## login settings
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/limit-login-value.png)
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/current-failed-logins.png)
+
+## avatar settings
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/config-pic-path.png)
+
+## app title
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/edit-app-title.png)
+
+## send direct sql command to database via app
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/question-sql1.png)
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/warning-sql2.png)
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/sql-direct.png)
+
+## backup from database and avatars
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/backup.png)
+
+## button appreance
+![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/button-config.png)
+
+
+## admin login history
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/login-history.png)
+
+## form titles config
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/forms-main.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/form-amozeshgah.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/form-class.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/form-tabs.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/form-title-student.png)
+
+
+
+
+
+
+
 Technical Specifications:
 - Current version : 1.0.0 [Stable] + (ALL VERSIONS ADDED 'VERSION.ZIP')
 - Database used sqlite (can use 'DB Browser for SQLite' this is open-source sqlite database editor).
