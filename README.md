@@ -17,13 +17,45 @@ ____________________
 
 ___________________________
 
-# student section
+# class section
+
+## class list
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/list.png)
+
+## class info
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/info.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/info2.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/info3.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/addstudent.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/addstudentfromstudentlists.png)
+
+## search class
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/search.png)
+
+## create class
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/classes/create.png)
+
 
 _________________________
 
+# student section
+
+## list
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/setudents/list.png)
+
+
+## student profile/information
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/setudents/info1.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/setudents/scores-and-classes-joint.png)
+
+
+## student edit
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/setudents/edit.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/setudents/edit2.png)
 
 
 
+______________________________-
 # Setting and Cofnguration
 ![settings](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/main.png)
 
@@ -64,6 +96,35 @@ _________________________
 ![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/form-tabs.png)
 ![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/settings/form-title-student.png)
 
+
+
+
+_______________________
+# amozeshgah section 
+## list 
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/amozeshgah/list.png)
+
+## info
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/amozeshgah/info1.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/amozeshgah/info2.png)
+
+____________________
+# init application
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/initapp/avatarnotfound.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/initapp/dbnotfound.png)
+
+
+______________
+# background things
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/backgroundthing/uis-designed.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/backgroundthing/database-place.png)
+![picture](https://github.com/iwantamouse/rotopa-class-manager/blob/master/screenshots/backgroundthing/avatar-place.png)
+
+
+
+__________________
+# database design pictures are located at
+https://github.com/iwantamouse/rotopa-class-manager/tree/master/screenshots/backgroundthing/database
 
 
 
